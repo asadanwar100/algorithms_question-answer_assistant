@@ -1,0 +1,17 @@
+# Ignore the builder directory
+builder/
+# Ignore raw source PDFs
+*.pdf
+
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# VSCode settings (optional)
+.vscode/
+
+# Mac metadata
+.DS_Store
